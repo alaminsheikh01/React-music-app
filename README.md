@@ -1,3 +1,15 @@
+```
+git clone https://github.com/alaminsheikh01/React-music-app.git
+
+cd React-music-app
+
+npm install
+
+npm start
+```
+
+
+
 ![FireShot Capture 201 - React App - localhost](https://user-images.githubusercontent.com/57319298/107780082-6ac51e00-6d70-11eb-8c4e-d5bdffddffc9.png)
 
 
